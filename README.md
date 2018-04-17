@@ -1,2 +1,2 @@
-# gid.jp_test
+# gid415
 試作のため
